@@ -1,0 +1,10 @@
+{
+    "reference": {
+      "docker": {
+        "image": "sacharstn/custom_model”,
+        "uri": “/custom_model",
+        "port": 8080,
+        "credentialsId": "a50e2340-6436-4857-af00-6c6d7c947f9f"
+      }
+    }
+  }
